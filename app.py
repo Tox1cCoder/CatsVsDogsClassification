@@ -70,7 +70,7 @@ if st.sidebar.button("Click Here to Classify"):
         if prediction > 0.5:
             st.sidebar.write("It's a 'Cat' picture.", '\n')
             st.sidebar.write('**Probability: **', cat_probability, '%')
-            st.sidebar.audio(audio_bytes)
+            #st.sidebar.audio(audio_bytes)
         else:
             st.sidebar.write(" It's a 'Dog' picture ", '\n')
             st.sidebar.write('**Probability: **', dog_probability, '%')
