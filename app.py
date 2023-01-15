@@ -29,7 +29,7 @@ def predict(w, b, X):
     return Y_prediction
 
 
-st.title("Cat Image Classification")
+st.title("Cats/Dogs Image Classification")
 
 st.write('\n')
 
