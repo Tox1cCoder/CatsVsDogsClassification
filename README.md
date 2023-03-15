@@ -1,4 +1,4 @@
-# Cat Classification
+# Cats Vs Dogs Classification
 
 ### Try it here : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tox1ccoder-catsvsdogsclassification-app-6zu7ar.streamlit.app/)
 
