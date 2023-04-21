@@ -4,4 +4,4 @@
 
 **This App can** :
  - Using a convolutional neural network to determine whether an image contains a cat or a dog.
- - It can predict with 98.7% accuracy using a [dataset](https://www.kaggle.com/c/dogs-vs-cats/data) of 25000 images.
+ - It can predict with 80% accuracy using a [dataset](https://www.kaggle.com/c/dogs-vs-cats/data) of 25000 images.
